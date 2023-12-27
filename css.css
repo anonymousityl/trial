@@ -1,0 +1,37 @@
+.heading {
+    text-align:center;
+
+}
+.container {
+    background-color:#f2f2f2;
+    padding:10px;
+    border-radius:5px;
+}
+.submit {
+    background-color:#04AA6D;
+    padding:12px 20px;
+    border:none;
+    cursor: pointer;
+    
+
+}
+.submit:hover {
+    background-color:#45a049;
+}
+input[type=text], select, textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    
+}
+input[type=email]{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
